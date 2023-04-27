@@ -1,5 +1,8 @@
 # Discovery Interview Questions
 
+To better understand team and their context before onboarding them to an Internal Developer Platform, this guide contains some 
+questions to cover various aspects of their work.
+
 ## Warm-up
 
 * What is your team responsible for?

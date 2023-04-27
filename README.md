@@ -3,6 +3,10 @@
 To better understand team and their context before onboarding them to an Internal Developer Platform, this guide contains some 
 questions to cover various aspects of their work.
 
+This template is inspired from this blog post and template and may diverge based on learnings:
+* https://medium.com/@michael.roy.galloway/your-platform-org-needs-a-purpose-heres-how-to-find-it-64874b082d80
+* https://bit.ly/3On3GZt
+
 ## Warm-up
 
 * What is your team responsible for?

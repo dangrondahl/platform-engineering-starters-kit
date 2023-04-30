@@ -1,6 +1,8 @@
-# Platform Discovery Resources
+# Platform Engineering - Starters Kit
 
-Various resources to aid for discovering teams ways of working in relation to internal developer platforms and platform engineering.
+![Beware the rabbit hole](resources/logo.png)
+
+Various resources to help a platform team create an awesome Internal Developer Platform.
 
 * [Discovery Interview Questions Template](discovery-interview-questions.md)
 * [Team Cognitive Load Assessment](https://github.com/TeamTopologies/Team-Cognitive-Load-Assessment)

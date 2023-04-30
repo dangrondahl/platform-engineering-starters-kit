@@ -9,6 +9,11 @@ Various resources to help a platform team create an awesome Internal Developer P
 * [Team Charter](https://managers.app/define-your-team-charter/)
 
 
+## Blog posts
+
+* [Better documentation - Better DevEx](https://medium.com/@dangrondahl/better-documentation-better-platform-developer-experience-64a1f5489da2)
+* [Four hypotheses on platform engineering](https://medium.com/@dangrondahl/get-a-unique-snapshot-view-of-platform-engineering-today-5fc1af2724ae)
+
 ## Books
 * [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology-ebook/dp/B09JWT9S4D/ref=sr_1_1?keywords=team+topologies&qid=1682633895&s=books&sprefix=team+%2Cstripbooks-intl-ship%2C165&sr=1-1)
 * [Continuous Discovery Habits](https://www.amazon.com/Continuous-Discovery-Habits-Discover-Products/dp/1736633309)

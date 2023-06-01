@@ -1,5 +1,11 @@
 # Platform Engineering - Starters Kit
 
+This repo was created as part of my talk on DevOpsDays Copenhagen 2023 with the title:
+
+**"Platform Engineering is Hard, and We are Doing it Wrong"**  
+
+([Video](https://youtu.be/oq1tSjnYeJs)) ([Slides](https://www.slideshare.net/DanGrndahlGlavind/platform-engineering-is-hard-and-we-are-doing-it-wrong))
+
 ![Beware the rabbit hole](resources/logo.png)
 
 Various resources to help a platform team create an awesome Internal Developer Platform.
